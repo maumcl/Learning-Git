@@ -18,7 +18,7 @@ https://git-scm.com/downloads
 - [x] Adding your projects in the cloud
 
 - [x] You need to go back in the timeline to fix a mistake that was made
-- [x] 
+- [x] You need to restore a deleted archive 
 
 * `git init`     // Start the timeline
 * `git add`      // Add or refresh changes to insert in the timelime
@@ -27,10 +27,11 @@ https://git-scm.com/downloads
 * `git status`   // Inform the current status of the projects changes
 * `git show`     // Show a specific step in the history
 * `git branch`   // Manage new timelines(branches)
-* `git checkout` // Manipulate the timelines
+* `git checkout` // Manipulate the timelines (with this command I can restore a deleted archive)
 * `git merge`    // Merge the timelines
 * `git push`     // Send the local changes to the remote repository
-* `git pull`     // 
+* `git clone`    // Clone a project / repository
+* `git pull`     // Pull from the remote repository to the local repository
 * `vim`          // Open the archive in the terminal
 
 
