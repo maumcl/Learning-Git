@@ -17,7 +17,7 @@ https://git-scm.com/downloads
 
 - [x] Adding your projects in the cloud
 
-- [x]
+- [x] You need to go back in the timeline to fix a mistake that was made
 - [x] 
 
 * `git init`     // Start the timeline
