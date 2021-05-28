@@ -32,7 +32,7 @@ https://git-scm.com/downloads
 * `git push`     // Send the local changes to the remote repository
 * `git clone`    // Clone a project / repository
 * `git pull`     // Pull from the remote repository to the local repository
-* `vim`          // Open the archive in the terminal
+* `vim`          // Open an archive in the terminal
 
 
 
