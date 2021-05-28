@@ -6,7 +6,7 @@ Practical guide to beginners
 
 https://git-scm.com/downloads
 
-# TOPICS
+### TOPICS
 
 - [x] You can create history steps in your projects
 - [x] You can know if your archives were changed 
