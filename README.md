@@ -22,6 +22,7 @@ https://git-scm.com/downloads
 
 * `git init`     // Start the timeline
 * `git add`      // Add or refresh changes to insert in the timelime
+* ` git branch -m master main` // Rename the local _master_ to _main_
 * `git commit -m "add description"`   // Add a step in the timeline
 * `git remote add origin www.github.com/yourgithub/repository` // Add a step in the timeline
 * `git log`      // Visualize those steps in the timelime
