@@ -23,7 +23,7 @@ https://git-scm.com/downloads
 * `git init`     // Start the timeline
 * `git add`      // Add or refresh changes to insert in the timelime
 * `git commit -m "add description"`   // Add a step in the timeline
-* `git remote add origin www.github.com/yourgithub/repository // Add a step in the timeline
+* `git remote add origin www.github.com/yourgithub/repository` // Add a step in the timeline
 * `git log`      // Visualize those steps in the timelime
 * `git status`   // Inform the current status of the projects changes
 * `git show`     // Show a specific step in the history
