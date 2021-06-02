@@ -34,7 +34,3 @@ https://git-scm.com/downloads
 * `git clone`    // Clone a project / repository
 * `git pull`     // Pull from the remote repository to the local repository
 * `vim`          // Open an archive in the terminal
-
-
-
-
