@@ -34,4 +34,6 @@ https://git-scm.com/downloads
 * `git push -u origin master`     // Send the local changes to the remote repository
 * `git clone`    // Clone a project / repository
 * `git pull`     // Pull from the remote repository to the local repository
+* `git reset --hard` // Discard the local changes
 * `vim`          // Open an archive in the terminal
+
